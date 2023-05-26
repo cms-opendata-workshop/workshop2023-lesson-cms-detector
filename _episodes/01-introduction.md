@@ -14,6 +14,16 @@ keypoints:
 ---
 ## Introduction
 
+<p>
+  <div id="aframe">
+    <a-scene embedded>
+      <a-sky src="../fig/CMS_equirectangular_2048.jpg"
+	     rotation="0 -120 0">
+      </a-sky>
+    </a-scene>
+  </div>
+</p>
+
 ### CMS detector design requirements
 
 Detectors consist of layers of material that exploit the different properties of particles to catch and measure the energy and momentum of each one. CMS needed:

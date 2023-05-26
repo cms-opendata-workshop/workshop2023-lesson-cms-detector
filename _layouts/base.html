@@ -21,6 +21,21 @@
     {% endif %}
     <link rel="license" href="#license-info" />
 
+    <!-- Use this for embedding panormamic images and be able to look around them -->
+    <style>
+      #aframe {
+	  height: 75vh;
+      }
+      .a-enter-vr {
+	  visibility: hidden;
+      }
+    </style>
+
+    <script type="text/javascript"
+	    src="https://aframe.io/releases/1.2.0/aframe.min.js">
+    </script>
+    <!-- aframe stuff above -->
+
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
