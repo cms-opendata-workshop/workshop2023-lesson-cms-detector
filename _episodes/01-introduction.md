@@ -1,15 +1,27 @@
 ---
 title: "Introduction"
-teaching: 0
+teaching: 5
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What is the CMS detector?"
+- "What are the design objectives of the CMS detector?"
+- "What are the main detector components of the CMS detector?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Learn about the CMS detector and how it works."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "The CMS detector is a large general-purpose detector at the LHC, CERN."
+- "CMS consists of layers of detector material that exploit the different properties of particles to catch and measure the energy or momentum of each one."
 ---
-FIXME
+## Introduction
+
+### CMS detector design requirements
+
+Detectors consist of layers of material that exploit the different properties of particles to catch and measure the energy and momentum of each one. CMS needed:
+* a high performance system to detect and measure muons,
+* a high resolution method to detect and measure electrons and photons (an electromagnetic calorimeter),
+* a high quality central tracking system to give accurate momentum measurements, and
+* a “hermetic” hadron calorimeter, designed to entirely surround the collision and prevent particles from escaping.
+
 
 {% include links.md %}
 
