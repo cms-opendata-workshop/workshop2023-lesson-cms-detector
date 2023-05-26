@@ -14,6 +14,18 @@ keypoints:
 ---
 ## Introduction
 
+### CMS detector design requirements
+
+Detectors consist of layers of material that exploit the different properties of particles to catch and measure the energy and momentum of each one. CMS needed:
+* a high performance system to detect and measure muons,
+* a high resolution method to detect and measure electrons and photons (an electromagnetic calorimeter),
+* a high quality central tracking system to give accurate momentum measurements, and
+* a “hermetic” hadron calorimeter, designed to entirely surround the collision and prevent particles from escaping.
+
+![](../fig/cms_160312_02.png){:width="75%"}
+
+Move around the image below to see what CMS looks like in the experimental cavern:
+
 <p>
   <div id="aframe">
     <a-scene embedded>
@@ -23,14 +35,6 @@ keypoints:
     </a-scene>
   </div>
 </p>
-
-### CMS detector design requirements
-
-Detectors consist of layers of material that exploit the different properties of particles to catch and measure the energy and momentum of each one. CMS needed:
-* a high performance system to detect and measure muons,
-* a high resolution method to detect and measure electrons and photons (an electromagnetic calorimeter),
-* a high quality central tracking system to give accurate momentum measurements, and
-* a “hermetic” hadron calorimeter, designed to entirely surround the collision and prevent particles from escaping.
 
 
 {% include links.md %}
