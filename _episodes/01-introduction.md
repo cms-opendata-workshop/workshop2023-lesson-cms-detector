@@ -35,7 +35,7 @@ Detectors consist of layers of material that exploit the different properties of
 * a high quality central tracking system to give accurate momentum measurements, and
 * a “hermetic” hadron calorimeter, designed to entirely surround the collision and prevent particles from escaping.
 
-![](../fig/cms_160312_02.png){:width="75%"}
+![](../fig/cms_160312_02.png){:width="100%"}
 
 Move around the image below to see what CMS looks like in the experimental cavern:
 

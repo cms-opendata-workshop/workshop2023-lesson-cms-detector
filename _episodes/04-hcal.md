@@ -11,6 +11,8 @@ keypoints:
 ---
 ## HCAL
 
+![](../fig/cms_hcal.png)
+
 The Hadron Calorimeter (HCAL) measures the energy of “hadrons”, particles made of quarks and gluons (for example protons, neutrons, pions and kaons). Additionally it provides indirect measurement of the presence of non-interacting, uncharged particles such as neutrinos.
 
 Measuring these particles is important as they can tell us if new particles such as the Higgs boson or supersymmetric particles (much heavier versions of the standard particles we know) have been formed.

@@ -11,6 +11,8 @@ keypoints:
 ---
 ## Muon detectors
 
+![](../fig/cms_muons.png)
+
 As the name “Compact Muon Solenoid” suggests, detecting muons is one of CMS’s most important tasks.
 Muons are charged particles that are just like electrons and positrons, but are 200 times heavier.
 We expect them to be produced in the decay of a number of potential new particles; for instance,

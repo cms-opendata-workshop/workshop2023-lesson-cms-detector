@@ -11,6 +11,8 @@ keypoints:
 ---
 ## ECAL
 
+![](../fig/cms_ecal.png)
+
 CMS uses lead tungstate (PbWO4) for the almost 80,000 crystals: a material with high density that produces scintillation light in fast, small, well-defined photon showers.
 This means the calorimeter system can be very precise and very compact, fitting within the magnet coil.
 

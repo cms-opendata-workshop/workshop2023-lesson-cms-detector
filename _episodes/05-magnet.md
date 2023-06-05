@@ -15,6 +15,8 @@ keypoints:
 ---
 ## Magnet
 
+![](../fig/cms_solenoid.png)
+
 The CMS magnet is the central device around which the experiment is built, with a 4 Tesla magnetic field that is 100,000 times stronger than the Earth’s.
 
 Its job is to bend the paths of particles emerging from high-energy collisions in the LHC. The more momentum a particle has the less its path is curved by the magnetic field, so tracing its path gives a measure of momentum. CMS began with the aim of having the strongest magnet possible because a higher strength field bends paths more and, combined with high-precision position measurements in the tracker and muon detectors, this allows accurate measurement of the momentum of even high-energy particles.
