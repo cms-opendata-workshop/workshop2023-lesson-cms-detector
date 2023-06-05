@@ -29,6 +29,8 @@ DTs and RPCs are arranged in concentric cylinders around the beam line (“the b
 
 ### Drift tubes
 
+![](../fig/muons_0.png) | ![](../fig/muons_dt.png)
+
 The drift tube (DT) system measures muon positions in the barrel part of the detector. Each 4-cm-wide tube contains a stretched wire within a gas volume. When a muon or any charged particle passes through the volume it knocks electrons off the atoms of the gas. These follow the electric field ending up at the positively-charged wire.
 By registering where along the wire electrons hit (in the diagram, the wires are going into the page) as well as by calculating the muon's original distance away from the wire (shown here as horizontal distance and calculated by multiplying the speed of an electron in the tube by the time taken) DTs give two coordinates for the muon’s position.
 Each DT chamber, on average 2m x 2.5m in size, consists of 12 aluminium layers, arranged in three groups of four, each up with up to 60 tubes: the middle group measures the coordinate along the direction parallel to the beam and the two outside groups measure the perpendicular coordinate.
@@ -36,12 +38,17 @@ Each DT chamber, on average 2m x 2.5m in size, consists of 12 aluminium layers, 
 
 ### Cathode Strip Chambers
 
+![](../fig/muons_0.png) | ![](../fig/muons_csc.png)
+
 Cathode strip chambers (CSC) are used in the endcap disks where the magnetic field is uneven and particle rates are high.
 CSCs consist of arrays of positively-charged “anode” wires crossed with negatively-charged copper “cathode” strips within a gas volume. When muons pass through, they knock electrons off the gas atoms, which flock to the anode wires creating an avalanche of electrons. Positive ions move away from the wire and towards the copper cathode, also inducing a charge pulse in the strips, at right angles to the wire direction.
 Because the strips and the wires are perpendicular, we get two position coordinates for each passing particle.
 In addition to providing precise space and time information, the closely spaced wires make the CSCs fast detectors suitable for triggering. Each CSC module contains six layers making it able to accurately identify muons and match their tracks to those in the tracker.
 
 ### Resistive Plate Chambers
+
+![](../fig/muons_0.png) | ![](../fig/muons_rpc_barrel.png) | ![](../fig/muons_rpc_endcaps.png)
+
 
 Resistive plate chambers (RPC) are fast gaseous detectors that provide a muon trigger system parallel with those of the DTs and CSCs.
 RPCs consist of two parallel plates, a positively-charged anode and a negatively-charged cathode, both made of a very high resistivity plastic material and separated by a gas volume.
