@@ -19,6 +19,14 @@ The tracker needs to record particle paths accurately yet be lightweight so as t
 
 The final design consists of a tracker made entirely of silicon: the pixels, at the very core of the detector and dealing with the highest intensity of particles, and the silicon microstrip detectors that surround it. As particles travel through the tracker the pixels and microstrips produce tiny electric signals that are amplified and detected. The tracker employs sensors covering an area the size of a tennis court, with 75 million separate electronic read-out channels: in the pixel detector there are some 6000 connections per square centimetre.
 
+![](../fig/tracker_rphi.png) | ![](../fig/tracker_rphi_tracks.png)
+
+*Above left: An event display view of the CMS tracker (contained within the ECAL barrel) looking along the beam pipe. Above right: An event display view of reconstructed tracks.*
+
+![](../fig/tracker_rz.png) | ![](../fig/tracker_rz_tracks.png)
+
+*Above left: A projected event display view of the CMS tracker (contained within the ECAL barrel and endcaps) looking perpendicular to the beam pipe. Above right: A projected event display view of reconstructed tracks.*
+
 ### Pixels
 
 ### Strips
