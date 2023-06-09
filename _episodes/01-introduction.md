@@ -19,6 +19,8 @@ The detector is like a giant filter, where each layer is designed to stop, track
 
 ![](../fig/cms_160312_02.png){:width="100%"}
 
+*Above: A schematic view of the CMS detector.*
+
 The detector is built around a huge solenoid magnet. This takes the form of a cylindrical coil of superconducting cable, cooled to -268.5oC, that generates a magnetic field of 4 Tesla, about 100,000 times that of the Earth.
 
 Detectors consist of layers of material that exploit the different properties of particles to catch and measure the energy and momentum of each one. CMS needed:
@@ -39,8 +41,17 @@ Within the LHC, bunches of particles collide up to 40 million times per second, 
 
 *Above: A transverse slice of the CMS detector and the particles detected by each subdetector.*
 
+Below is an interactive 3D model of the CMS detector:
+<p>
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item"
+            src="https://cms3d.web.cern.ch/detector-embedded/"
+	    allowfullscreen>
+    </iframe>	
+  </div>
+</p>
+  
 Move around the image below to see what CMS looks like in the experimental cavern:
-
 <p>
   <div id="aframe">
     <a-scene embedded>

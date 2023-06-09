@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Learn about the muon detectors and how it works."
 keypoints:
-- "There are three main muon detector systems in CMS."
+- "There are three main muon detector systems in CMS: the drift tubes, cathode strip chambers, and resistive plate chambers."
 ---
 ## Muon detectors
 
@@ -15,19 +15,18 @@ keypoints:
 
 As the name “Compact Muon Solenoid” suggests, detecting muons is one of CMS’s most important tasks.
 Muons are charged particles that are just like electrons and positrons, but are 200 times heavier.
-We expect them to be produced in the decay of a number of potential new particles; for instance,
-one of the clearest "signatures" of the Higgs Boson is its decay into four muons.
 
 Because muons can penetrate several metres of iron without interacting, unlike most particles they are not stopped by any of CMS's calorimeters. Therefore, chambers to detect muons are placed at the very edge of the experiment where they are the only particles likely to register a signal.
 
 A particle is measured by fitting a curve to hits among the four muon stations, which sit outside the magnet coil and are interleaved with iron "return yoke" plates (shown in red below, for the barrel region). By tracking its position through the multiple layers of each station, combined with tracker measurements the detectors precisely trace a particle’s path. This gives a measurement of its momentum because we know that particles travelling with more momentum bend less in a magnetic field. As a consequence, the CMS magnet is very powerful so we can bend even the paths of very high-energy muons and calculate their momenta.
 
-![](../fig/MuStations.gif)
-
 In total there are 1400 muon chambers: 250 drift tubes (DTs) and 540 cathode strip chambers (CSCs) track the particles’ positions and provide a trigger, while 610 resistive plate chambers (RPCs) form a redundant trigger system, which quickly decides to keep the acquired muon data or not. Because of the many layers of detector and different specialities of each type, the system is naturally robust and able to filter out background noise.
 
 DTs and RPCs are arranged in concentric cylinders around the beam line (“the barrel region”) whilst CSCs and RPCs, make up the “endcaps” disks that cover the ends of the barrel.
 
+![](../fig/MuStations.gif)
+
+*Above: A transverse slice of CMS slowing a muon passing through RPCs and DTs in the barrel.*
 
 ### Drift tubes
 
@@ -47,7 +46,6 @@ Each DT chamber, on average 2m x 2.5m in size, consists of 12 aluminium layers, 
 
 *Above: An event display of a muon seen in DTs. The green volumes indicate the position of the triggered wires.*
 
-
 ### Cathode Strip Chambers
 
 Cathode strip chambers (CSC) are used in the endcap disks where the magnetic field is uneven and particle rates are high.
@@ -58,7 +56,7 @@ Cathode strip chambers (CSC) are used in the endcap disks where the magnetic fie
 
 ![](../fig/muon_csc_event.png){:width="75%"}
 
-*Above: A double muon event seen in CMS with highlighted matching CSCs.*
+*Above: A double muon event seen in CMS with highlighted matching CSCs (in red).*
 
 CSCs consist of arrays of positively-charged “anode” wires crossed with negatively-charged copper “cathode” strips within a gas volume. When muons pass through, they knock electrons off the gas atoms, which flock to the anode wires creating an avalanche of electrons. Positive ions move away from the wire and towards the copper cathode, also inducing a charge pulse in the strips, at right angles to the wire direction.
 

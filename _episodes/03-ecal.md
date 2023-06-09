@@ -19,9 +19,11 @@ Lead tungstate crystal is made primarily of metal and is heavier than stainless 
 
 The ECAL, made up of a “barrel” section and two “endcaps”, forms a layer between the tracker and the HCAL. The cylindrical barrel consists of 61,200 crystals formed into 36 “supermodules”, each weighing around three tonnes and containing 1700 crystals. The flat endcaps seal off the barrel at each end and are made up of almost 15,000 more crystals.
 
+Photodetectors, which have been especially designed to work within the high magnetic field, are glued onto the back of each of the crystals to detect the scintillation light and convert it to an electrical signal that is amplified and sent for analysis. Avalanche photodiodes or APDs are used in the the crystal barrel, and vacuum phototriodes (VPTs) for the endcaps.
+
 ![](../fig/ECALcrystals_0.jpg){:width="75%"}
 
-Photodetectors, which have been especially designed to work within the high magnetic field, are glued onto the back of each of the crystals to detect the scintillation light and convert it to an electrical signal that is amplified and sent for analysis. Avalanche photodiodes or APDs are used in the the crystal barrel, and vacuum phototriodes (VPTs) for the endcaps.
+*Above: Lead tungstate crystals. One can see an APD attached to the end of one of the crystals at the bottom of the image.*
 
 For extra spatial precision, the ECAL also contains a preshower detector that sits in front of the endcaps. These allow CMS to distinguish between single high-energy photons (often signs of exciting physics) and the less interesting close pairs of low-energy photons.
 
