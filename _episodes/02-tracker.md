@@ -4,6 +4,8 @@ teaching: 5
 exercises: 0
 questions:
 - "What is the tracker and how does it work?"
+objectives:
+- "Learn about the tracker, what it measure, and how it works."
 keypoints:
 - "A particle emerging from the collision and travelling outwards will first encounter the tracking system, made of silicon pixels and silicon strip detectors."
 - "The tracker accurately measures the positions of passing charged particles allowing physicists to reconstruct their tracks."
@@ -11,6 +13,8 @@ keypoints:
 ## Tracker
 
 ![](../fig/cms_tracker.png)
+
+### Overview
 
 Measuring the momentum of particles is crucial in helping us to build up a picture of events at the heart of the collision. One method to calculate the momentum of a particle is to track its path through a magnetic field; the more curved the path, the less momentum the particle had. The CMS tracker records the paths taken by charged particles by finding their positions at a number of key points.
 

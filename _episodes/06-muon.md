@@ -13,6 +13,8 @@ keypoints:
 
 ![](../fig/cms_muons.png)
 
+### Overview
+
 As the name “Compact Muon Solenoid” suggests, detecting muons is one of CMS’s most important tasks.
 Muons are charged particles that are just like electrons and positrons, but are 200 times heavier.
 
