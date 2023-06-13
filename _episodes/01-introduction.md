@@ -55,7 +55,6 @@ Move around the image below to see what CMS looks like in the experimental caver
 <p>
   <div id="aframe">
     <a-scene embedded>
-      <!--<a-sky src="../fig/CMS_equirectangular_2048.jpg" rotation="0 -120 0">-->
       <a-sky src="../fig/0pOgmYSEETO5_equirectangular_16384.jpg" rotation="0 -120 0">
       </a-sky>
     </a-scene>
