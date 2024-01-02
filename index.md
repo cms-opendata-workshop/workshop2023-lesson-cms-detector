@@ -14,7 +14,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 > # What is this lesson about?
 >
 > Welcome. In this lesson you will learn about the CMS detector and how it works.
-
+{: .callout}
 
 > ## Prerequisites
 >
